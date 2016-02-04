@@ -1,5 +1,5 @@
 # Static SPA
-Single page application with routing. A solution is introduced that uses only Web Standards (HTML, JavaScript, CSS, [The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)).
+Static Single Page Application with routing that uses only Web Standards (HTML, JavaScript, CSS, [The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)).
 
 Even though libraries like Bootstrap, Backbone, Angular, Knockout and Ember do most of the work for you when implementing this kind of system, this project does not use any libraries at all. This emphasizes the core technogies, and provides a foundation for understanding how those libraries work.
 
