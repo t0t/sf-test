@@ -1,14 +1,7 @@
-# Navigation for Single Page Applications
-http://t0t.github.io/sf/
+# Static SPA
+Single page application with routing. A solution is introduced that uses only Web Standards (HTML, JavaScript, CSS, [The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)).
 
- * [YouTube Video - Navigation for Single Page Applications](https://www.youtube.com/watch?v=xN9QxPtK2LM&feature=youtu.be)
- * [Code Examples Viewer](http://curran.github.io/screencasts/navigation/examples/viewer/#/). Use left and right arrow keys to navigate.
-
-This screencast covers how to construct a single page application with a tab-like navigation user interface and routing. A solution is introduced that uses only Web Standards (HTML, JavaScript, CSS, [The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)).
-
-Even though libraries like Bootstrap, Backbone, Angular, Knockout and Ember do most of the work for you when implementing this kind of system, this screencast does not use any libraries at all. This emphasizes the core technogies, and provides a foundation for understanding how those libraries work.
-
-Curran Kelleher October 2014
+Even though libraries like Bootstrap, Backbone, Angular, Knockout and Ember do most of the work for you when implementing this kind of system, this project does not use any libraries at all. This emphasizes the core technogies, and provides a foundation for understanding how those libraries work.
 
 ## Background
 
