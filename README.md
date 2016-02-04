@@ -21,17 +21,19 @@ Single Page Application
 Workflow Review
 
  * Editor / IDE
-   * Needs to insert only spaces or only tabs
-   * Mixed tabs and spaces causes editor-specific indentation errors
-     * My Vim configuration uses 2 spaces for a single tab
-     * [CodeMirror Visible Tabs Demo](http://codemirror.net/demo/visibletabs.html)
-     * Chrome Source view uses 8 spaces to represent a tab
+   * Atom
  * Git Command Line
    * Running on your machine in same directory as the editor
  * Local Server (e.g. [`python -m SimpleHTTPServer 8080`](http://www.pythonforbeginners.com/modules-in-python/how-to-use-simplehttpserver/))
    * This is far better than doing your development over an SSH connection
  * DOM Inspector ([`<p>Hello</p>`](http://jsbin.com/nuduzahoga/1/edit))
  * JavaScript Console ([`console.log("Hello");`](http://jsbin.com/luxiqonefa/1/edit))
+ * Pendiente añadir:
+  * Gulp
+  * Sass
+  * BrowserSync
+  * NPM Dev Dependencies
+
 
 Navigation Interface
 
