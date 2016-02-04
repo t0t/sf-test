@@ -61,7 +61,7 @@
       // Pass the posts array to the callback.
       callback(posts);
     };
-    request.open("GET", "posts.json", true);
+    request.open("GET", "data/posts.json", true);
     request.send(null);
   }
 
