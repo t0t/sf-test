@@ -10,13 +10,18 @@ body {
 img {
   width: 100%;
 }
-.post-name {
+
+footer {
+  background-color: pink;
+  padding: 25px;
+}
+.post__name {
   font-weight: bolder;
   font-size: 120%;
   margin: 10px 0;
 }
-.post-author {}
-.post-content {}
+.post__author {}
+.post__content {}
 
 #content {
   padding: 25px 15px;
