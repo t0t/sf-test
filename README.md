@@ -33,24 +33,15 @@ Workflow Review
  * DOM Inspector ([`<p>Hello</p>`](http://jsbin.com/nuduzahoga/1/edit))
  * JavaScript Console ([`console.log("Hello");`](http://jsbin.com/luxiqonefa/1/edit))
 
-Navigation Interfaces
+Navigation Interface
 
- * [Wordpress Blogs](https://wordpress.com/fresh/)
-   * [Citizen Sketcher](http://citizensketcher.wordpress.com/2014/10/23/in-which-holmes-creates-a-painting-in-the-rain-or-the-case-of-the-vanishing-castle/)
-   * [The New West](http://thewpsa.wordpress.com/)
-   * These use separate HTML pages
- * Approaches
-   * Separate HTML pages
-     * e.g. PHP applications
-     * Used to be standard practice
-     * Replaced by the "Single Page Application"
-   * Single Page Application
-     * A single page with no reload
-     * Dynamic behavior added using JavaScript
-     * Content fetched as needed
-     * Routing using a [fragment identifier](http://en.wikipedia.org/wiki/Fragment_identifier)
-       * Was the standard practice for a long time
-       * Slowly being replaced by HTML5 History API
-     * Routing using [HTML5 History API](http://diveintohtml5.info/history.html)
-       * [CanIUse Report](http://caniuse.com/#search=history)
-     * Caching
+* Single Page Application
+ * A single page with no reload
+ * Dynamic behavior added using JavaScript
+ * Content fetched as needed
+ * Routing using a [fragment identifier](http://en.wikipedia.org/wiki/Fragment_identifier)
+   * Was the standard practice for a long time
+   * Slowly being replaced by HTML5 History API
+ * Routing using [HTML5 History API](http://diveintohtml5.info/history.html)
+   * [CanIUse Report](http://caniuse.com/#search=history)
+ * Caching
