@@ -1,28 +1,41 @@
-/* The CSS theme for the Navigation Example site. */
+
 
 /* Use Google Fonts. */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
-/* Style the navigation bar links.  */
-#navbar a {
+body {
   font-family: 'Open Sans', sans-serif;
+  padding: 25px;
+}
+img {
+  width: 100%;
+}
+.post-name {
+  font-weight: bolder;
+  font-size: 120%;
+  margin: 10px 0;
+}
+.post-author {}
+.post-content {}
+
+#content {
+  padding: 25px 15px;
+  background-color: pink;
+}
+#navbar a {
   font-size: 1.5em;
-  margin: 0px 10px 0px 10px;
+  margin: 25px 0;
   padding: 0px 8px 0px 8px;
   color: black;
   text-decoration: none;
-
-  border: 2px solid;
-  border-color: white;
-  border-radius: 20px;
 }
 
 /* Give the user an affordance that each link is clickable. */
 #navbar a:hover {
-  border-color: black;
+  background-color: pink;
 }
 
 /* Style the active page link. */
 #navbar a.active{
-  border-color: gray;
+  background-color: pink;
 }
